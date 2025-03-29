@@ -1,0 +1,30 @@
+*** Parking Booking Manager - Summary Report ***
+
+Performance:
+
+ For FCFS:
+ 		Total Number of Bookings Received: 4 (80.0%)
+ 			  Number of Bookings Assigned: 31236656 (100.0%)
+ 			  Number of Bookings Rejected: 31236656 (0.0%)
+ 		Utilization of Time Slot:
+ 			 Battery   - 2.0%
+ 			 Cable     - 1.2%
+ 			 Locker    - 0.4%
+ 			 Umbrella  - 0.4%
+ 			 Valet     - 0.0%
+ 			 Inflation - 0.0%
+
+ 		Invalid request(s) made: 1
+ For PRIO:
+ 		Total Number of Bookings Received: 4 (80.0%)
+ 			  Number of Bookings Assigned: 31236656 (100.0%)
+ 			  Number of Bookings Rejected: 31236656 (0.0%)
+ 		Utilization of Time Slot:
+ 			 Battery   - 2.0%
+ 			 Cable     - 1.2%
+ 			 Locker    - 0.4%
+ 			 Umbrella  - 0.4%
+ 			 Valet     - 0.0%
+ 			 Inflation - 0.0%
+
+ 		Invalid request(s) made: 1
